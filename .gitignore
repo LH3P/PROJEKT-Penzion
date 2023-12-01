@@ -20,8 +20,8 @@ node_modules/
 .LSOverride
 
 ### Windows ###
-Thumbs.db/
-Thumbs.db:encryptable/
-ehthumbs.db/
-ehthumbs_vista.db/
-[Dd]esktop.ini/
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+[Dd]esktop.ini
